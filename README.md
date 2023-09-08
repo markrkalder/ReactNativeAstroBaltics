@@ -1,4 +1,4 @@
-## React Native test assignment
+## React Native test
 
 ### How to run
 
